@@ -1,0 +1,11 @@
+/.env
+/.env.backup
+/.idea
+/vendor
+/node_modules
+/storage/*.key
+/assets/uploads
+/.editorconfig
+/_ide_helper.php
+/.phpstorm.meta.php
+/_ide_helper_models.php
